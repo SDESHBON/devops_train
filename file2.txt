@@ -1,1 +1,2 @@
 this is the second file to test and work for git
+this entry added from git repo
