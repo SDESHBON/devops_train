@@ -1,1 +1,2 @@
 this is the second file to test and work for git
+adding another row to the file.
