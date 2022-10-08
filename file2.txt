@@ -1,3 +1,2 @@
 this is the second file to test and work for git
-adding another row to the file.
-adding another row from server
+this entry added from git repo
